@@ -69,7 +69,7 @@
   <a href="https://sinan-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sinan-taylan-6b3a31215/">
+  <a href="https://www.linkedin.com/in/sinan-taylan/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
